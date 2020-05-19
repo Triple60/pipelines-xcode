@@ -207,7 +207,7 @@
 				};
 			};
 			buildConfigurationList = D24408D01F6873A700D58AC7 /* Build configuration list for PBXProject "iOSHelloWorld" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 4.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
